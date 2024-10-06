@@ -1,0 +1,1 @@
+Filter<Map<std::slice::Iter<'_, u32>, {closure@exercises/smart_pointers/arc1.rs:36:68: 36:71}>, {closure@exercises/smart_pointers/arc1.rs:36:91: 36:94}>
